@@ -1,40 +1,63 @@
+
 # Emir Aslan
 
-**Computer Engineering Undergraduate @ Kyrgyz-Turkish Manas University** | Bishkek, Kyrgyzstan
+### Computer Engineering Undergraduate @ Kyrgyz-Turkish Manas University
+Bishkek, Kyrgyzstan · First-Year Undergraduate
 
-Software developer, robotics programmer, and 3D designer focused on building practical automation tools, robot control systems, interactive game mechanics, and AI-assisted workflows. Focused on core computer science fundamentals, system-level design, and bridging hardware with software.
+Software developer, robotics programmer, and 3D designer focused on building practical software and engineering solutions. I develop automation tools, web applications, robotic control systems, and interactive game mechanics. I prefer learning through implementation — turning technical concepts into working projects.
 
----
-
-### Current Focus & Projects
-* **FTC Robotics Team:** Developing robot control systems in **Java** for the *FIRST Tech Challenge (FTC)*, covering autonomous navigation routines, sensor integration, and teleoperated controls, along with 3D mechanical CAD modeling.
-* **2D Incremental Crafting Game:** Building an incremental clicker game in **Godot 4.x (GDScript)** featuring biome resource systems, multi-tier recipe progression, and automation logic.
-* **Custom Desktop Utilities:** Designing practical automation tools in **Python**, including a gesture-based local media cleaner and an automated chat summarization pipeline.
-* **3D Design & Modeling:** Creating game-ready assets and animations in **Blender**, as well as mechanical part assemblies in **SolidWorks**.
-* **Systems & Algorithms:** Studying **C++** memory management, pointers, and fundamental data structures.
+**Email:** [saezstrakt1502@gmail.com](mailto:saezstrakt1502@gmail.com)  
+**GitHub:** [@Ppowerknight](https://github.com/Ppowerknight)
 
 ---
 
-### Tech Stack
+## Current Focus & Projects
 
-* **Languages:** C++, Python, Java, GDScript, TypeScript
-* **Engines & Frameworks:** Godot 4.x, Next.js, Tailwind CSS
-* **Design & Tools:** Blender, SolidWorks, Affinity Designer, Git & GitHub
+- **FTC Robotics:** Developing Java-based robot control systems for the FIRST Tech Challenge (FTC), including autonomous navigation, sensor integration, and teleoperated controls. Also designing mechanical components using SolidWorks.
 
----
+- **2D Incremental Crafting Game:** Building a crafting and resource-management game in Godot 4.x using GDScript, featuring biome-based gathering, multi-tier crafting recipes, progression systems, and worker automation.
 
-### Featured Work
+- **Desktop Automation Utilities:** Developing Python applications, including a gesture-based local media cleaner with card-swiping evaluation logic and an automated chat summarization pipeline.
 
-* **FTC Robotics Software & CAD:** Java-based autonomous/teleop routines and SolidWorks mechanical assemblies for robotics competition.
-* **PlaylistIQ:** A Next.js and TypeScript web application turning YouTube playlists into structured learning tracks.
-* **Swipe-Based Media Cleaner:** Desktop storage utility utilizing a card-swiping evaluation mechanic to quickly sort, archive, or delete local media.
-* **WhatsApp Group Summarizer:** Automation script parsing chat exports into structured topic summaries.
-* **2D Crafting Clicker (WIP):** Resource management and crafting progression game built in Godot 4.
+- **Web Development — PlaylistIQ:** Built a Next.js and TypeScript application that transforms YouTube playlists into structured learning roadmaps, interactive study schedules, and calendar-ready plans.
+
+- **3D Design & Mechanical Modeling:** Creating game-ready 3D assets and animations in Blender, alongside mechanical parts and CAD assemblies in SolidWorks.
+
+- **Systems & Data Structures:** Strengthening C++ fundamentals through hands-on work with pointers, memory management, data structures, and low-level programming concepts.
 
 ---
 
-### Languages
-* **Turkish:** Native
-* **Kyrgyz:** C1 (Certified Advanced Proficiency)
-* **English:** Technical & Working Proficiency
-* **Russian:** Conversational Basics
+## Tech Stack
+
+- **Languages:** Python, C++, Java, TypeScript, GDScript
+- **Frameworks & Engines:** Next.js, Godot 4.x, Tailwind CSS
+- **Robotics & CAD:** FTC SDK, SolidWorks, sensor integration, robot control systems
+- **3D & Design:** Blender, 3D Modeling, Animation, Affinity Designer
+- **Tools & Platforms:** Git, GitHub, HTML
+
+---
+
+## Featured Work
+
+| Project | Technologies | Description |
+|---|---|---|
+| [PlaylistIQ](https://playlistiq.vercel.app/) | Next.js, TypeScript | Converts YouTube playlists into structured learning roadmaps and interactive study schedules. |
+| FTC Robotics | Java, SolidWorks | Robot control software, autonomous routines, sensor integration, and mechanical CAD design. |
+| Desktop Media Cleaner | Python | Gesture-driven utility for reviewing, sorting, and organizing local media files. |
+| Chat Summarizer | Python | Parses exported conversation logs into structured context summaries. |
+| Incremental Crafting Game | Godot 4.x, GDScript | Resource gathering, crafting progression, and automated worker systems. |
+
+---
+
+## Languages
+
+| Language | Proficiency |
+|---|---|
+| Turkish | Native |
+| Kyrgyz | C1 — Certified Advanced Proficiency |
+| English | B1 — Technical / Working Proficiency |
+| Russian | Basic Conversational |
+
+---
+
+*Learning through building. Engineering through implementation.*
